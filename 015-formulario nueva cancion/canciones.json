@@ -1,0 +1,401 @@
+[
+    {
+        "titulo": "Careless Whisper",
+        "artista": "George Michael",
+        "album": "Careless Whisper",
+        "año": 1994,
+        "significado": "Es una balada icónica de los años 80 que aborda temas de infidelidad, culpa y arrepentimiento. La canción fue escrita por Michael cuando tenía 17 años, inspirada en experiencias personales relacionadas con relaciones amorosas complicadas y triángulos amorosos. En su juventud, mientras tenía una relación estable con una chica llamada Helen, Michael comenzó a salir con otras dos mujeres, Jane y Alexis. Este comportamiento le generó un profundo sentimiento de culpa que eventualmente plasmó en la letra de la canción"
+    },
+    {
+        "titulo": "Bohemian Rhapsody",
+        "artista": "Queen",
+        "album": "A Night at the Opera",
+        "año": 1975,
+        "significado": "Una obra maestra que combina varios estilos musicales para contar una historia introspectiva sobre culpa, redención y la lucha interna del protagonista tras cometer un crimen."
+    },
+    {
+        "titulo": "Hotel California",
+        "artista": "Eagles",
+        "album": "Hotel California",
+        "año": 1976,
+        "significado": "Una metáfora sobre los excesos y las trampas del estilo de vida californiano en los años 70, con referencias a la adicción, la fama y la pérdida de control."
+    },
+    {
+        "titulo": "Stairway to Heaven",
+        "artista": "Led Zeppelin",
+        "album": "Led Zeppelin IV",
+        "año": 1971,
+        "significado": "Un viaje espiritual que explora temas de materialismo, búsqueda personal y trascendencia, con una narrativa lírica abierta a múltiples interpretaciones."
+    },
+    {
+        "titulo": "Smells Like Teen Spirit",
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "año": 1991,
+        "significado": "Un himno generacional que captura el espíritu rebelde y nihilista de la juventud de los años 90, con una letra que mezcla ironía y desconexión emocional."
+    },
+    {
+        "titulo": "Corazón Partío",
+        "artista": "Alejandro Sanz",
+        "album": "Básico",
+        "año": 1994,
+        "significado": "Contrario a lo que muchos piensan, la canción no trata sobre una ruptura amorosa, sino sobre el miedo a los terremotos que Sanz experimentó durante un viaje a México. El artista compuso la canción mientras estaba en un hotel de Monterrey, aterrorizado por la posibilidad de un temblor en un edificio alto."
+    },
+    {
+        "titulo": "Al Alba",
+        "artista": "Luis Eduardo Aute",
+        "album": "Al Alba",
+        "año": 1985,
+        "significado": "Una canción que representa una despedida metafórica de una persona que espera su propia muerte al amanecer. Es una crítica velada a los fusilamientos durante la Guerra Civil Española, utilizando la poesía para burlar la censura franquista."
+    },
+    {
+        "titulo": "Fíjate Bien",
+        "artista": "Juanes",
+        "album": "Mi Sangre",
+        "año": 2004,
+        "significado": "Una denuncia social sobre las minas antipersonas en Colombia. La letra advierte sobre los peligros de caminar en zonas de conflicto, utilizando una metáfora de amor para resaltar el riesgo constante que enfrentaban los ciudadanos."
+    },
+    {
+        "titulo": "Mi Héroe",
+        "artista": "Antonio Orozco",
+        "album": "Renovación",
+        "año": 2017,
+        "significado": "Una canción dedicada a Susana Gómez, la madre del hijo de Orozco, quien luchó silenciosamente contra una enfermedad. Representa un homenaje a la fortaleza y el coraje de una mujer que nunca habló de su sufrimiento."
+    },
+    {
+        "titulo": "Viva la Vida",
+        "artista": "Coldplay",
+        "album": "Viva la Vida or Death and All His Friends",
+        "año": 2008,
+        "significado": "Una reflexión metafórica sobre el poder, la caída de los imperios y la vida de Luis XVI. La canción explora temas de religión, política y la transitoriedad del poder, utilizando la historia del rey francés como alegoría."
+    },
+    {
+        "titulo": "Sevilla",
+        "artista": "Miguel Bosé",
+        "album": "Sevilla",
+        "año": 1990,
+        "significado": "Contrario a parecer un tributo a la ciudad, la canción esconde una historia oscura de un crimen pasional, utilizando la ciudad como telón de fondo para una narrativa más compleja."
+    },
+    {
+        "titulo": "Imagine",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "año": 1971,
+        "significado": "Una oda utópica que sueña con un mundo en paz, sin divisiones sociales, religiosas o políticas."
+    },
+    {
+        "titulo": "Like a Rolling Stone",
+        "artista": "Bob Dylan",
+        "album": "Highway 61 Revisited",
+        "año": 1965,
+        "significado": "Un himno de desafío y libertad que explora la caída de una persona acomodada en un mundo impredecible."
+    },
+    {
+        "titulo": "Billie Jean",
+        "artista": "Michael Jackson",
+        "album": "Thriller",
+        "año": 1982,
+        "significado": "Una canción sobre acusaciones falsas y la presión de la fama, con un ritmo icónico."
+    },
+    {
+        "titulo": "Yesterday",
+        "artista": "The Beatles",
+        "album": "Help!",
+        "año": 1965,
+        "significado": "Una balada nostálgica sobre el arrepentimiento y la pérdida de tiempos más felices."
+    },
+    {
+        "titulo": "Losing My Religion",
+        "artista": "R.E.M.",
+        "album": "Out of Time",
+        "año": 1991,
+        "significado": "Una reflexión sobre el desamor y la vulnerabilidad, con un título que simboliza la pérdida de fe o esperanza."
+    },
+    {
+        "titulo": "Born to Run",
+        "artista": "Bruce Springsteen",
+        "album": "Born to Run",
+        "año": 1975,
+        "significado": "Un himno a la juventud y la búsqueda de libertad en medio de los desafíos de la vida cotidiana."
+    },
+    {
+        "titulo": "Sweet Child o' Mine",
+        "artista": "Guns N' Roses",
+        "album": "Appetite for Destruction",
+        "año": 1987,
+        "significado": "Una declaración de amor apasionada y nostálgica con un riff icónico de guitarra."
+    },
+    {
+        "titulo": "Thunderstruck",
+        "artista": "AC/DC",
+        "album": "The Razors Edge",
+        "año": 1990,
+        "significado": "Una canción de energía pura que representa la intensidad y la emoción del rock."
+    },
+    {
+        "titulo": "Paint It Black",
+        "artista": "The Rolling Stones",
+        "album": "Aftermath",
+        "año": 1966,
+        "significado": "Una exploración de la tristeza y el vacío tras una pérdida, con un toque psicodélico y oscuro."
+    },
+    {
+        "titulo": "Creep",
+        "artista": "Radiohead",
+        "album": "Pablo Honey",
+        "año": 1993,
+        "significado": "Un himno de alienación y auto-aceptación que captura la angustia de sentirse diferente."
+    },
+    {
+        "titulo": "Wonderwall",
+        "artista": "Oasis",
+        "album": "(What's the Story) Morning Glory?",
+        "año": 1995,
+        "significado": "Una balada britpop sobre la esperanza y la conexión emocional con alguien especial."
+    },
+    {
+        "titulo": "Comfortably Numb",
+        "artista": "Pink Floyd",
+        "album": "The Wall",
+        "año": 1979,
+        "significado": "Una introspección sobre el aislamiento emocional y la desconexión en medio del sufrimiento."
+    },
+    {
+        "titulo": "Hey Jude",
+        "artista": "The Beatles",
+        "album": "Single",
+        "año": 1968,
+        "significado": "Un mensaje de consuelo y aliento para superar los tiempos difíciles y seguir adelante."
+    },
+    {
+        "titulo": "Black Dog",
+        "artista": "Led Zeppelin",
+        "album": "Led Zeppelin IV",
+        "año": 1971,
+        "significado": "Una canción que mezcla pasión, seducción y el poder del blues rock."
+    },
+    {
+        "titulo": "Enter Sandman",
+        "artista": "Metallica",
+        "album": "Metallica (The Black Album)",
+        "año": 1991,
+        "significado": "Un viaje oscuro y pesado hacia las pesadillas y los miedos infantiles."
+    },
+    {
+        "titulo": "Back in Black",
+        "artista": "AC/DC",
+        "album": "Back in Black",
+        "año": 1980,
+        "significado": "Un tributo a Bon Scott, el difunto vocalista de la banda, celebrando su legado y el poder del rock."
+    },
+    {
+        "titulo": "One",
+        "artista": "U2",
+        "album": "Achtung Baby",
+        "año": 1991,
+        "significado": "Una canción sobre unidad, reconciliación y las complejidades del amor y las relaciones."
+    },
+    {
+        "titulo": "Karma Police",
+        "artista": "Radiohead",
+        "album": "OK Computer",
+        "año": 1997,
+        "significado": "Un comentario sobre la moralidad y las consecuencias de las acciones individuales en un mundo alienante."
+    },
+    {
+        "titulo": "Nothing Else Matters",
+        "artista": "Metallica",
+        "album": "Metallica (The Black Album)",
+        "año": 1991,
+        "significado": "Una balada introspectiva sobre la lealtad, la sinceridad y la dedicación a las cosas importantes."
+    },
+    {
+        "titulo": "Heroes",
+        "artista": "David Bowie",
+        "album": "Heroes",
+        "año": 1977,
+        "significado": "Un himno a la resistencia y al amor triunfante incluso en circunstancias desesperadas."
+    },
+    {
+        "titulo": "I Will Always Love You",
+        "artista": "Whitney Houston",
+        "album": "The Bodyguard",
+        "año": 1992,
+        "significado": "Una poderosa balada sobre el amor eterno y la despedida con gratitud."
+    },
+    {
+        "titulo": "Purple Haze",
+        "artista": "Jimi Hendrix",
+        "album": "Are You Experienced",
+        "año": 1967,
+        "significado": "Un viaje psicodélico que desafía la realidad, lleno de simbolismo y energía experimental."
+    },
+    {
+        "titulo": "All Along the Watchtower",
+        "artista": "The Jimi Hendrix Experience",
+        "album": "Electric Ladyland",
+        "año": 1968,
+        "significado": "Una interpretación transformadora del clásico de Bob Dylan, llena de misterio y simbolismo."
+    },
+    {
+        "titulo": "Every Breath You Take",
+        "artista": "The Police",
+        "album": "Synchronicity",
+        "año": 1983,
+        "significado": "Una balada inquietante sobre la obsesión y el control disfrazados de amor."
+    },
+    {
+        "titulo": "Under the Bridge",
+        "artista": "Red Hot Chili Peppers",
+        "album": "Blood Sugar Sex Magik",
+        "año": 1991,
+        "significado": "Una reflexión melancólica sobre la soledad y la conexión con la ciudad de Los Ángeles."
+    },
+    {
+        "titulo": "Zombie",
+        "artista": "The Cranberries",
+        "album": "No Need to Argue",
+        "año": 1994,
+        "significado": "Una protesta emocional contra la violencia y el conflicto en Irlanda del Norte."
+    },
+    {
+        "titulo": "The Sound of Silence",
+        "artista": "Simon & Garfunkel",
+        "album": "Sounds of Silence",
+        "año": 1966,
+        "significado": "Una reflexión poética sobre la desconexión y la falta de comunicación en la sociedad moderna."
+    },
+    {
+        "titulo": "Hallelujah",
+        "artista": "Leonard Cohen",
+        "album": "Various Positions",
+        "año": 1984,
+        "significado": "Una meditación espiritual y emocional que mezcla amor, fe y dolor."
+    },
+    {
+        "titulo": "I Want to Hold Your Hand",
+        "artista": "The Beatles",
+        "album": "Single",
+        "año": 1963,
+        "significado": "Una canción que captura la inocencia y la emoción de los primeros pasos en el amor."
+    },
+    {
+        "titulo": "Light My Fire",
+        "artista": "The Doors",
+        "album": "The Doors",
+        "año": 1967,
+        "significado": "Una invitación apasionada y sensual que mezcla psicodelia y rock clásico."
+    },
+    {
+        "titulo": "Roxanne",
+        "artista": "The Police",
+        "album": "Outlandos d'Amour",
+        "año": 1978,
+        "significado": "Una súplica emocional dirigida a una mujer atrapada en un mundo difícil, pidiendo redención y amor verdadero."
+    },
+    {
+        "titulo": "Another Brick in the Wall, Part 2",
+        "artista": "Pink Floyd",
+        "album": "The Wall",
+        "año": 1979,
+        "significado": "Un poderoso mensaje contra el autoritarismo y la opresión en la educación y la sociedad."
+    },
+    {
+        "titulo": "My Heart Will Go On",
+        "artista": "Céline Dion",
+        "album": "Let's Talk About Love",
+        "año": 1997,
+        "significado": "Una balada épica sobre el amor eterno, inmortalizada como el tema principal de la película Titanic."
+    },
+    {
+        "titulo": "Paranoid",
+        "artista": "Black Sabbath",
+        "album": "Paranoid",
+        "año": 1970,
+        "significado": "Un retrato crudo de la ansiedad y el descontento emocional, convertido en un clásico del heavy metal."
+    },
+    {
+        "titulo": "Rolling in the Deep",
+        "artista": "Adele",
+        "album": "21",
+        "año": 2010,
+        "significado": "Una canción de empoderamiento y desamor que mezcla el soul con una producción intensa y apasionada."
+    },
+    {
+        "titulo": "Seven Nation Army",
+        "artista": "The White Stripes",
+        "album": "Elephant",
+        "año": 2003,
+        "significado": "Un himno de lucha y resistencia, impulsado por un riff de bajo inolvidable."
+    },
+    {
+        "titulo": "Shake It Off",
+        "artista": "Taylor Swift",
+        "album": "1989",
+        "año": 2014,
+        "significado": "Una declaración pop sobre ignorar las críticas y mantenerse fiel a uno mismo."
+    },
+    {
+        "titulo": "All Star",
+        "artista": "Smash Mouth",
+        "album": "Astro Lounge",
+        "año": 1999,
+        "significado": "Un himno optimista y divertido sobre aprovechar al máximo la vida y las oportunidades."
+    },
+    {
+        "titulo": "Boulevard of Broken Dreams",
+        "artista": "Green Day",
+        "album": "American Idiot",
+        "año": 2004,
+        "significado": "Una reflexión sobre la soledad y la búsqueda de sentido en un mundo caótico."
+    },
+    {
+        "titulo": "The Times They Are a-Changin'",
+        "artista": "Bob Dylan",
+        "album": "The Times They Are a-Changin'",
+        "año": 1964,
+        "significado": "Un llamado a la acción y al cambio en tiempos de agitación social y política."
+    },
+    {
+        "titulo": "Take Me to Church",
+        "artista": "Hozier",
+        "album": "Hozier",
+        "año": 2013,
+        "significado": "Una crítica a las instituciones que reprimen el amor y la libertad, presentada como un himno de devoción y desafío."
+    },
+    {
+        "titulo": "Clocks",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "año": 2002,
+        "significado": "Una canción introspectiva sobre el tiempo, el amor y las decisiones importantes en la vida."
+    },
+    {
+        "titulo": "Piano Man",
+        "artista": "Billy Joel",
+        "album": "Piano Man",
+        "año": 1973,
+        "significado": "Un relato melancólico y nostálgico de los sueños y desafíos de las personas en un bar."
+    },
+    {
+        "titulo": "Tears in Heaven",
+        "artista": "Eric Clapton",
+        "album": "Rush (Soundtrack)",
+        "año": 1992,
+        "significado": "Una conmovedora balada sobre la pérdida de un ser querido y el dolor profundo que le sigue."
+    },
+    {
+        "titulo": "Shape of You",
+        "artista": "Ed Sheeran",
+        "album": "÷",
+        "año": 2017,
+        "significado": "Una celebración del amor físico y la atracción romántica con un ritmo bailable y pegajoso."
+    },
+    {
+        "titulo": "Blinding Lights",
+        "artista": "The Weeknd",
+        "album": "After Hours",
+        "año": 2020,
+        "significado": "Una mezcla de nostalgia y modernidad que habla sobre la búsqueda del amor y la redención en medio de la oscuridad."
+    }
+]
