@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <title>Significado de Canciones</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+    <header>
+        <h1>Cancionario</h1>
+        <h2>Encuentra el significado de tus canciones favoritas</h2>
+    </header>
+    <main>
+        <input type="search" id="buscador" placeholder="Introduce título, artista o palabra clave">
+        <section id="canciones">
+
+        </section>
+    </main>
+    <footer>
+        <div id="formularionuevacancion">
+            <input type="text" id="titulo" placeholder="Introduce el titulo de la cancion">
+            <input type="text" id="artista" placeholder="Introduce el artista de la cancion">
+            <textarea id="significado"></textarea>
+            <button id="enviar">Enviar</button>
+        </div>
+        <div id="nueva">+</div>
+        <script src="comportamiento.js"></script>
+    </footer>
+    <template id="cancion">
+        <article>
+            <h3>Titulo</h3>
+            <h4>Artista</h4>
+            <p>Significado</p>
+        </article>
+    </template>
+</body>
+
+</html>
